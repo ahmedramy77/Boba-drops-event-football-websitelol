@@ -1,0 +1,18 @@
+img {
+    width: 300px;
+}
+p {
+    color:hsla(60, 36%, 49%, 0.397)
+}
+p {font-variant: small-caps;}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+body {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: beige;
+}
